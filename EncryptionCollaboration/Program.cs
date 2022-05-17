@@ -2,6 +2,5 @@
 
 Encryption en = new Encryption();
 
-Console.WriteLine(en.Encrypt("Live sharing is hell"));
+Console.WriteLine(en.Encrypt("hello"));
 
-//9quali52ty3
