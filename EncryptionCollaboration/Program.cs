@@ -2,8 +2,8 @@
 
 Encryption en = new Encryption();
 
-Console.WriteLine(en.Encrypt("HELLO"));
+Console.WriteLine(en.Encrypt("working mostly"));
 
 
-Console.WriteLine(en.Decrypt("372 3 65 141 214"));
+Console.WriteLine(en.Decrypt("1481 8 116 237 346 446 563 737 692 799 906 1020 1144 1239"));
 
